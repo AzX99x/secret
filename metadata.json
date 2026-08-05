@@ -1,0 +1,6 @@
+{
+  "name": "Hezhinx - Next-Gen Article & Dev Tools",
+  "description": "A world-class modern content platform featuring motion graphics, AI article summarization, live multilingual translation, interactive developer tools, custom CSS injection, and dark/light modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
